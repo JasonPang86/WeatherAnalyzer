@@ -15,6 +15,7 @@ HOW TO RUN:
   Created By:
   Jason Pang
   Victor Moreira 
+  Muhammad Shah
   
   Technologies:
   - Python, Anaconda Python Environment
