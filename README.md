@@ -13,8 +13,8 @@ HOW TO RUN:
   - Enter a value from 1-11 where it states "Enter an option" and the desired data or graph should appear
 
   Created By:
-  Jason Pang
-  Victor Moreira 
+  Jason Pang,
+  Victor Moreira, 
   Muhammad Shah
   
   Technologies:
